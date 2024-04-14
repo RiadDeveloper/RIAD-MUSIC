@@ -112,7 +112,7 @@ const numberEmojis = [
 
 const slashSettings = {
   global: false,
-  guildIDS: ["903532162236694539"], // for slash command
+  guildIDS: ["1222479423022825492"], // for slash command
 };
 
 module.exports = {
