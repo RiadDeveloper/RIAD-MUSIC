@@ -2,7 +2,7 @@ const { Colors } = require("discord.js");
 
 const defaultSettings = {
   TOKEN: process.env.TOKEN || "BOT_TOKEN",
-  PREFIX: process.env.PREFIX || "!",
+  PREFIX: process.env.PREFIX || "/",
   MONGO_URL: process.env.MONGO_URL || "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
 };
 
