@@ -83,10 +83,10 @@ const filters = {
 };
 
 const links = {
-  inviteURL: `https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=6508997968&scope=bot%20applications.commands`,
-  DiscordServer: `https://discord.gg/FuKfAREn9f`,
-  VoteURL: `https://discord.gg/FuKfAREn9f`,
-  Website: `https://jugnu.netlify.app/`,
+  inviteURL: `https://discord.com/oauth2/authorize?client_id=1225846962977509386&permissions=8&scope=bot`,
+  DiscordServer: `https://discord.gg/DkAwANDSST`,
+  VoteURL: `https://discord.gg/DkAwANDSST`,
+  Website: `http://riaddeveloper.000.pe/`,
 };
 
 const options = {
